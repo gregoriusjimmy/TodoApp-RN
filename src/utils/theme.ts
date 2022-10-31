@@ -12,7 +12,7 @@ export const colors = {
     lightBlack: '#555555',
     darkBlack: '#000000',
     gray: '#7C7C7C',
-    lightGray: '#ABABAB',
+    lightGray: '#E5E5E5',
     darkGray: '#505050',
     white: '#EDEEF1',
     lightWhite: '#FFFFFF',
